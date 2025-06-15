@@ -22,5 +22,5 @@
 
 
 💻 Cursando Engenharia de Computação, estou em busca de desafios na área de desenvolvimento de software.  
-🤖 Mentor das equipes: Tucanus FRC, Biguá FLL, Titãs da Serra FLL e Tucanitus FLL
+🤖 Mentor das equipes: Tucanus FRC, Biguá FLL e Titãs da Serra FLL.
 
